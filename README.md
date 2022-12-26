@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="1200" src="https://static.vecteezy.com/system/resources/previews/000/523/561/original/mobile-application-development-on-laptop-screen-concept-background-app-coding-and-web-development-cross-platform-devices-smartphone-tablet-and-computer-vector.jpg">
+
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
 <h3 align="center">A passionate frontend developer and UI/UX Designer</h3>
 
